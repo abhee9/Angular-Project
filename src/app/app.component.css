@@ -1,0 +1,44 @@
+* {
+    margin: auto;
+    padding: 0;
+
+}
+
+body {
+    height: 100vh;
+    width: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.container {
+    border: 2px solid red;
+    align-content: center;
+    align-items: center;
+    padding-left: 512px;
+    padding-top: 212px;
+    background-color: aquamarine;
+    gap: 20px;
+}
+
+.btn {
+    width: 100px;
+    background-color: red
+}
+
+.p {
+    font-size: larger;
+}
+
+.item {
+    height: 50px;
+    border-radius: 12px;
+    font-size: larger;
+    gap: 20px;
+}
+
+.ico {
+    font-size: larger;
+}
